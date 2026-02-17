@@ -101,9 +101,9 @@ GitHub Username: `yourgithubusername`
 Spread Factor Calculation:
 
 ```
-Sum of ASCII values = XXXX
-Spread Factor = (XXXX % 1000) / 100000.0
-Spread Factor = 0.00XXX
+Sum of ASCII values = 1237
+Spread Factor = (1237 % 1000) / 100000.0
+Spread Factor = 0.001237
 ```
 
 USD Buy Spread Formula:
