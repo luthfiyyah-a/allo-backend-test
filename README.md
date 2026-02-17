@@ -173,8 +173,13 @@ https://api.frankfurter.app/
 ```
 
 ## API Response Examples
-<img width="868" height="926" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/80342eed-2973-485d-8e5e-b5eecbe304bb" />
-<img width="891" height="730" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/13428d3f-99c5-4af2-8091-ae603e029bf6" />
-<img width="1073" height="918" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/74d1f87b-8255-4f30-85d9-27eba7b50e09" />
+<img width="400" height="450" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/80342eed-2973-485d-8e5e-b5eecbe304bb" />
 
+---
+<img width="500" height="450" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/74d1f87b-8255-4f30-85d9-27eba7b50e09" />
+
+---
+<img width="450" height="350" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/13428d3f-99c5-4af2-8091-ae603e029bf6" />
+
+---
 
